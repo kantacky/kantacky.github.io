@@ -1,1 +1,3 @@
-# kantacky.github.io
+- [GitHub](https://github.com/kantacky)
+
+&copy; <script>new Date().getFullYear()</script> Kanta Oikawa
