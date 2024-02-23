@@ -1,3 +1,3 @@
 - [GitHub](https://github.com/kantacky)
 
-&copy; <script>new Date().getFullYear()</script> Kanta Oikawa
+&copy; 2024 Kanta Oikawa
